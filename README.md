@@ -94,10 +94,11 @@ Building technology-focused tools designed to make caregiving information and wo
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IshaanDesai21&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=IshaanDesai21&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanDesai21&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanDesai21&layout=compact&theme=transparent&hide_border=true" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IshaanDesai21&theme=github-compact&hide_border=true&area=true" />
 </div>
 
 ---
