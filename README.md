@@ -4,7 +4,7 @@
 
 # Hey, I'm Ishaan 👋
 
-### Student Developer • Engineer • Builder • Robotics
+### Student Developer • Researcher • Engineer • Intern • Robotics
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+is+my+%231+passion.;Building+ideas+into+reality.;Robotics+%2B+Software+%2B+Engineering.;Always+looking+for+the+next+challenge." alt="Typing SVG" />
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Learning is my #1 passion. I'm always looking for opportunities to **grow, improve, and take on new challenges**.
 
@@ -28,11 +28,11 @@ Sometimes that means realizing it's **5 AM and I've been coding for hours.** :)
 
 Currently interested in:
 
-* 🤖 Robotics & autonomous systems
-* 💻 Software engineering
-* ⚡ Electrical & hardware engineering
-* 🧠 AI-powered tools
-* 🖥️ Building products people actually use
+* Robotics & autonomous systems
+* Software engineering
+* Electrical & hardware engineering
+* AI-powered tools
+* Building things people actually use
 
 ---
 
@@ -88,42 +88,6 @@ Building technology-focused tools designed to make caregiving information and wo
 </tr>
 </table>
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=IshaanDesai21&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanDesai21&layout=compact&theme=transparent&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IshaanDesai21&theme=github-compact&hide_border=true&area=true" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IshaanDesai21&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/IshaanDesai21/IshaanDesai21/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-<div align="center">
 
 ### 💭 Always learning. Always building.
 
