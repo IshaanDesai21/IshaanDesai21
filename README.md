@@ -36,11 +36,11 @@ Currently interested in:
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,swift,cpp,js,ts,svelte,nodejs,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,swift,ts,svelte,nodejs,html,css" />
 
 <br/>
 
@@ -50,22 +50,22 @@ Currently interested in:
 
 ---
 
-## 🛠️ Things I've Built
+## Things I've Built
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 FTC Robotics
+### FTC Robotics
 
-Java-based robotics software and control systems for competitive FIRST Tech Challenge robots.
+Java-based robotics software and control systems for competitive FIRST Tech Challenge robots. 2026 World Championship Qualification
 
 </td>
 <td width="50%">
 
-### 💰 Finance Management
+### Finance Management
 
-Tools and web platforms designed to help manage robotics team finances and operations.
+Tools and web platforms designed to help manage robotics teams finances and operations.
 
 </td>
 </tr>
@@ -73,25 +73,17 @@ Tools and web platforms designed to help manage robotics team finances and opera
 <tr>
 <td width="50%">
 
-### ✋ Haptic Devices
+### Haptic Devices
 
-Exploring force-feedback systems, hardware integration, and interactive engineering projects.
+Researching force-feedback systems, hardware integration, and interactive engineering projects.
 
-</td>
-<td width="50%">
-
-### 🌉 CareBridge
-
-Building technology-focused tools designed to make caregiving information and workflows easier to manage.
-
-</td>
 </tr>
 </table>
 
 
-### 💭 Always learning. Always building.
+### Always learning. Always building.
 
-*"The best way to predict the future is to build it."*
+*"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing.” - Pelé"*
 
 <br/>
 
