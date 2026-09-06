@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! 👋
 
 <!--
 **IshaanDesai21/IshaanDesai21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Elite 101 @ Code2College
+Helping build ProtoFlow.ai
+
+Learning is my #1 passion, and I am always looking for opportunities to grow, improve, and take on new challenges. I have a lot of experience as a corporate intern, and can code until 5 in the morning without realizing. :)
